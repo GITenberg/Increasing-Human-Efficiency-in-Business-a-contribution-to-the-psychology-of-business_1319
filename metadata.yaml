@@ -1,0 +1,31 @@
+_repo: Increasing-Human-Efficiency-in-Business-a-contribution-to-the-psychology-of-business_1319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter Dill
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '597'
+    url: http://www.gutenberg.org/2009/agents/597
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Dill_Scott
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Industrial efficiency'
+- !lcsh 'Psychology, Applied'
+- !lcsh 'Psychology, Industrial'
+- !lcsh 'Business'
+- !lcsh 'Industrial management'
+- GITenberg
+title: "Increasing Human Efficiency in Business\r\nA Contribution to the Psychology\
+  \ of Business"
+url: http://www.gutenberg.org/ebooks/1319
